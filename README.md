@@ -1,6 +1,5 @@
 # Logistic_Regression_Project
 ML
-# **Logistic Regression Project**
 **Predicting Purchase Decisions Based on Age and Estimated Salary**
 
 ---
